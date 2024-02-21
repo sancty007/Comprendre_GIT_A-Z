@@ -1,0 +1,48 @@
+# Gestion Efficace de Projets avec Git
+
+## Introduction
+- Git est un système de contrôle de version qui facilite la collaboration et la gestion des projets de développement de logiciels.
+- Cette présentation explore les meilleures pratiques et les outils pour une utilisation efficace de Git dans la gestion de projets.
+
+## Objectifs
+- Comprendre les concepts fondamentaux de Git.
+- Apprendre à utiliser Git pour gérer efficacement les versions de projet.
+- Explorer les outils Git et les méthodologies pour optimiser la collaboration et la productivité.
+
+## Contenu de la Présentation
+
+1. **Comprendre Git**
+    - Concept de versioning et rôle de Git.
+    - Installation et configuration de Git sur différentes plateformes.
+
+2. **Gestion des Branches et des Commits**
+    - Création et fusion de branches.
+    - Effectuer des commits significatifs et cohérents.
+
+3. **Travail avec des Dépôts Distants**
+    - Configuration de dépôts distants.
+    - Pousser et tirer des modifications depuis des dépôts distants.
+
+4. **Collaboration et Contribution**
+    - Fork & Pull request pour contribuer à des projets open-source.
+    - Résolution des conflits lors de la fusion des branches.
+
+5. **Utilisation d'Outils Git**
+    - Exploration d'outils tels que SourceTree, Ungit, et GitKraken.
+    - Intégration de Git dans Visual Studio Code.
+
+## Cas Pratique : Développement d'un Site Web
+- Initialisation d'un dépôt Git pour le projet.
+- Travail sur des fonctionnalités dans des branches distinctes.
+- Gestion des commits et des branches.
+- Collaboration avec des dépôts distants.
+- Utilisation d'outils Git pour une gestion visuelle et intuitive.
+
+## Avantages de l'utilisation de Git
+- Historique clair des modifications.
+- Facilité de collaboration et de contribution.
+- Gestion efficace des versions du code.
+
+## Conclusion
+- Git est un outil essentiel pour la gestion de projet dans le développement de logiciels.
+- En suivant les bonnes pratiques et en utilisant les outils appropriés, Git peut améliorer la productivité et la collaboration au sein de l'équipe.
